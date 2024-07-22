@@ -1,0 +1,29 @@
+SAMD21
+
+Tipo de Core: Arm® 32-bit Cortex®-M0+ CPU hasta 48 MHz
+Memoria RAM: 4/8/16/32 kB SRAM
+Memoria FLASH: 16/32/64/128/256 kB
+Memoria ROM: No tiene
+Puertos GPIO (Cant): 3, 6 o 7 GPIO clusters para 32, 48 y 64 pines, respectivamente
+Canales ADC (Cant): Hasta 20 canales de 12 bits
+Periféricos UART (Cant): 6 SERCOM, configurable a UART y USART
+
+STM32F103C8T6
+
+Tipo de Core: Arm®(a) Cortex®-M3 de 32 bits
+Memoria RAM: Hasta 96 kB SRAM
+Memoria FLASH: 768/1024 kB (High Performance), 16/32/64/128/256/512 kB (otros dispositivos)
+Memoria ROM: No tiene
+Puertos GPIO (Cant): Hasta 7 PORTS (A - G)
+Canales ADC (Cant): Hasta 18 canales de 12 bits
+Periféricos UART (Cant): 2 USART configurables como UART
+
+nRF52840
+
+Tipo de Core: ARM® Cortex®-M4 32-bit processor with FPU, 64 MHz
+Memoria RAM: 256 kB RAM
+Memoria FLASH: 1 MB
+Memoria ROM: No tiene
+Puertos GPIO (Cant): 2 PORTS de hasta 32 pines
+Canales ADC (Cant): 8 canales de 12 bits
+Periféricos UART (Cant): 2 UART
